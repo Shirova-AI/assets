@@ -31,6 +31,6 @@ All assets in this repository are protected and intended strictly for official S
 ### Legal
 
 **Copyright 2025  
-Shirova — All Rights Limited**
+Shirova AI Pvt. Ltd. — All Rights Limited**
 
 These assets, including all graphics, icons, videos, and imagery, are the **exclusive intellectual property of Shirova Company**. Unauthorized use, reproduction, or distribution is a violation of applicable laws and may result in legal action.
